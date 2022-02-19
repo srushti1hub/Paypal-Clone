@@ -1,0 +1,19 @@
+.body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro{
+  color: #fff;
+  background-color: #003087;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-size: 5.5rem;
+  margin: auto;
+  text-align: left;
+}
+
+.nav-item{
+margin: 1.5% 3% 1.5% 0;
+}
