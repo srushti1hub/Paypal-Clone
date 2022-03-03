@@ -1,2 +1,1 @@
-# paypal-clone
-PayPal Clone
+#Discord Clone
